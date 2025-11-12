@@ -1,2 +1,2 @@
-## Task-1 screenshot
-![Task 1 Screenshot](task-1_screenshot.png)
+## Task-1 Grouped Bar Chart Output
+![Grouped Bar Chart (3-5PM Visible)](task-1_screenshot.png)
